@@ -1,0 +1,10 @@
+<resources>
+
+    <declare-styleable name="CircleLoadingViewStyle">
+        <attr name="loading_circle_color" format="color"/>
+        <attr name="loading_text_color" format="color"/>
+        <attr name="loading_text_size" format="dimension"/>
+        <attr name="loading_circle_diameter" format="dimension"/>
+    </declare-styleable>
+
+</resources>
